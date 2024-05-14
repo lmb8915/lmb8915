@@ -1,16 +1,13 @@
-### Hi there 👋
+### satisfaçao parça 🇧🇷
 
-<!--
-**lmb8915/lmb8915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome e Castro
 
-Here are some ideas to get you started:
+- Estou Estudando No Alura
+- Estou me desenvolvendo na linguagem JavaScipt
+- utilizo esse espaco para minha organizacao e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- # voce entrar em contato cmg 📫
+- @ _._08_castro
+
+  ![](https://media.tenor.com/5S7UeMNDIf8AAAAj/hang-loose-goal-celebration.gif)
+  
